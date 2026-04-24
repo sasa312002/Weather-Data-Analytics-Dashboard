@@ -17,7 +17,7 @@ This project features an interactive Power BI dashboard designed to analyze and 
 
 ## 📸 Dashboard Screenshots
 
-![Dashboard Overview](link-to-your-image_bed4dc.jpg)
+![Dashboard Overview](https://github.com/sasa312002/Weather-Data-Analytics-Dashboard/blob/main/Screenshot%202026-04-24%20132239.png)
 *Caption: Main overview page showing high-level KPIs and temperature trends.*
 
 
@@ -29,5 +29,4 @@ This project features an interactive Power BI dashboard designed to analyze and 
 3. Open the `WeatherBI.pbix` file using Power BI Desktop.
 4. Interact with the dashboard using the filters and slicers provided on the canvas.
 
-## 📂 Data Source
-* The data for this dashboard was sourced from [Insert Data Source Here, e.g., OpenWeather API, Kaggle dataset, National Meteorological Dept].
+
